@@ -1,0 +1,25 @@
+{
+  "name": "rants-reason",
+  "version": "1.0.0",
+  "description": "## Date: 9/03/2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinyangb/Rants-Reason.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinyangb/Rants-Reason/issues"
+  },
+  "homepage": "https://github.com/jinyangb/Rants-Reason#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.2",
+    "nodemon": "^2.0.12"
+  }
+}
